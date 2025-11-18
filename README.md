@@ -8,7 +8,6 @@ Below is a polished, professional GitHub README tailored to a Full-Stack Web Dev
 
 I’m a passionate and results-driven **Full-Stack Developer** and **Mobile App Engineer** with 7+ years of experience building high-performance, scalable, and user-centric applications. I specialize in delivering robust digital solutions across web and mobile platforms using modern technologies and clean architectural patterns.
 
----
 
 ## 🚀 **About Me**
 
@@ -18,7 +17,6 @@ I’m a passionate and results-driven **Full-Stack Developer** and **Mobile App 
 * 🔹 Experienced in working with **APIs, cloud services, databases, and CI/CD**
 * 🔹 Passionate about crafting intuitive UI/UX and seamless user experiences
 
----
 
 ## 💡 **Tech Stack & Skills**
 
@@ -52,7 +50,6 @@ I’m a passionate and results-driven **Full-Stack Developer** and **Mobile App 
 * Clean Architecture
 * Responsive & Adaptive Design
 
----
 
 ## 🛠️ **Highlighted Capabilities**
 
@@ -64,33 +61,13 @@ I’m a passionate and results-driven **Full-Stack Developer** and **Mobile App 
 * ✔️ Integration of third-party SDKs & APIs
 * ✔️ Performance optimization and debugging
 
----
 
-## 📂 **Featured Projects**
-
-*(Add your own links here)*
-
-* 🔗 **Project 1** — Full-stack web application
-* 🔗 **Project 2** — Android & iOS mobile app
-* 🔗 **Project 3** — API-driven SaaS platform
-
----
-
-## 📈 **What I’m Currently Working On**
-
-* Building high-performance mobile apps with **React Native**
-* Developing full-stack platforms with **Next.js**, **Django**, and **Spring Boot**
-* Exploring advanced TypeScript patterns and API-first architectures
-
----
 
 ## 📫 **Connect With Me**
 
-* **Portfolio:** [your-portfolio-link]
-* **LinkedIn:** [your-linkedin-link]
-* **Email:** [your-email]
+* **LinkedIn:** [https://www.linkedin.com/in/joseph-abu-917671325/]
+* **Email:** [josephabu808@gmail.com]
 
----
 
 ## 🏆 **Let’s Build Something Great**
 
