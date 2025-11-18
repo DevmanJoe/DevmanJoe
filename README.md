@@ -1,7 +1,3 @@
-Below is a polished, professional GitHub README tailored to a Full-Stack Web Developer & Android/iOS Developer with 7+ years of experience. You can copy/paste as your `README.md` and customize your name, contact links, colors, or badges.
-
----
-
 # 👋 Hi, I'm **Joseph Abu**
 
 ### **Full-Stack Web Developer | Android & iOS Developer | 7+ Years of Experience**
