@@ -74,6 +74,3 @@ I’m a passionate and results-driven **Full-Stack Developer** and **Mobile App 
 I’m always open to collaborating on innovative projects, contributing to open-source, or exploring new opportunities.
 Feel free to reach out!
 
----
-
-Would you like a **version with GitHub badges, icons, and a more visual style**?
